@@ -4,7 +4,6 @@ Contributors
 
 - Kristijan Armeni + Jurassic Park + :eggplant:
 <<<<<< HEAD
-- Yana Schwarze + Harry Potter + :nerd_face:
 =======
 - Maria Deetman + Mean Girls + :heart:
 - Laura Stalenhoef + Twilight Saga + :smirk:
@@ -18,5 +17,4 @@ Contributors
 - Yingjie Shi + The God Father + :tomato:
 - Sarah Kusch + Pulp Fiction + :bug:
 - Yana Schwarze + Harry Potter + :nerd_face:
-
 >>>>>>> e4a4dc7b36dec5839fb64eca1cb602e183b997ff
