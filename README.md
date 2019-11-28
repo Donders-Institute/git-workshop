@@ -19,3 +19,5 @@ Contributors
 - Yingjie Shi + The God Father + :tomato:
 
 - Sarah Kusch + Pulp Fiction + :bug:
+
+- Decus + Last Samurai :banana:
