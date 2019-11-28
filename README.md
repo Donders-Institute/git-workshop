@@ -18,7 +18,7 @@ Contributors
 - Laura Stalenhoef + Twilight Saga + :smirk:
 - Yingjie Shi + The God Father + :tomato:
 - Sarah Kusch + Pulp Fiction + :bug:
-
+- Sara Aleskerova + La La Land + :dancer:
 - Decus + Last Samurai :banana:
 - Yana Schwarze + Harry Potter + :nerd_face:
 - Daniel Anthes + the Martian + :thumbsup:
