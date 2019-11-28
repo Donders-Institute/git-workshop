@@ -6,4 +6,11 @@ Contributors
 - Margot Mangnus + The Room + :rose:
 -Laura Stalenhoef + Twilight Saga + :smirk:
 - Yingjie Shi + The God Father + :tomato:
+- Pius Kern + Loving Vincent + :see_no_evil:
+- Eline Hagenberg + Shrek + :baby_chick:
+- Laura Stalenhoef + Twilight Saga + :smirk:
+- Eline Hagenberg + Shrek + :baby_chick:
+- Martijn van Os + Shrek 2 + :money_mouth_face:
+-Laura Stalenhoef + Twilight Saga + :smirk:
+- Yingjie Shi + The God Father + :tomato:
 - Sarah Kusch + Pulp Fiction + :bug:
