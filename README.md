@@ -4,14 +4,8 @@ Contributors
 
 - Kristijan Armeni + Jurassic Park + :eggplant:
 
-
-- Martijn van Os + Shrek 2 + :money_mouth_face:
-
-
-
 - Eline Hagenberg + Shrek + :baby_chick:
-
-
+- Martijn van Os + Shrek 2 + :money_mouth_face:
 
 -Laura Stalenhoef + Twilight Saga + :smirk:
 
