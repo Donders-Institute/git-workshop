@@ -14,4 +14,4 @@ Contributors
 - Yingjie Shi + The God Father + :tomato:
 
 - Sarah Kusch + Pulp Fiction + :bug:
-
+- Daniel Anthes + the Martian + :thumbsup:
