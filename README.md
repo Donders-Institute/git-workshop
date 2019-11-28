@@ -19,3 +19,4 @@ Contributors
 - Sarah Kusch + Pulp Fiction + :bug:
 - Daniel Anthes + the Martian + :thumbsup:
 - Yana Schwarze + Harry Potter + :nerd_face:
+- Shervin Bukhari + Taxi Drive r:sun_with_face
