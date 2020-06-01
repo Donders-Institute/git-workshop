@@ -1,6 +1,7 @@
-This README contains names/usernames/pseudonyms of participants and cool movies/shows for breakout room 1:
+This README contains names/usernames/pseudonyms of participants and cool movies/shows for breakout room 1.
 
-<name> + <good movie or tv show> + <emoji>
+E.g.  
+John Doe + Ghostbusters + :eggplant:
 
 1.
 2.
