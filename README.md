@@ -16,7 +16,7 @@ Pull, Commit, Push and Pull to add your introduction - and also to get the intro
 
 #  Exercise 2
 
-In each group directory there is a `README.md` file in which we want to collect recommendations of movies and/or TV shows.
+In each group directory there is a `README.md` file in which we want to collect **recommendations of movies and/or TV shows**.
 
 Pull the latest changes to your local repository, edit the README and add your recommendation.
 
@@ -28,4 +28,4 @@ As you are all doing this at (more or less) the same time, it is very likely tha
 
 Create an [issue](https://github.com/Donders-Institute/git-workshop/issues) for one of your group members, for example ask them to add or modify a file. Assign a label to the issue and assign it to the group member that should resolve it.
 
-Working together while not sitting next to each other (and possibly in different time zones) requires good communication. You can discuss the issue online: every comment that is added to the issue will result in an email. Other repository (aka team) members can also read along.
+**Working together** while not sitting next to each other (and possibly in different time zones) requires good communication. You can discuss the issue online: every comment that is added to the issue will result in an email. Other repository (aka team) members can also read along.
