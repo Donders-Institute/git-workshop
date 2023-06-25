@@ -1,8 +1,25 @@
 # Git workshop exercises
 
-All workshop participants are split over multiple groups. Please identify your group mebers ...
+All workshop participants are split into multiple groups. Please identify your group members...
 
-Make sure that you have a git client installed and clone this repository to your local computer.
+# Instruction to get started with Git and GitHub
+
+1 - Get a decent editor [Visual Studio](https://code.visualstudio.com/) is recommended, [Notepad++](https://notepad-plus-plus.org/downloads/) if you want to go really light)  
+2 - Go to GitHub and open an account (which you may have if you read this online)  
+3 - Windows and Mac users, download and install [GitHub desktop](https://desktop.github.com/)  (GUI to manage repositories, it really is easier)  
+  
+Note: a little knowledge of [bash](https://github.com/CPernet/Quicksheets/blob/main/bash/bash.mkd) goes a long way when using the Git command line.  
+
+Warning: (1) make sure you log in from your editor to Github allowing easy push/pull/clone to/from the web; (2) make sure any folder you work one is not protected or ensure the software is allowed to write (e.g. exclude a folder in F-secure, allow VS code, etc).
+
+## Link things together
+
+Open a terminal (from VS code via the terminal menu, get [Git Bash](https://gitforwindows.org/) on Windows, any terminal otherwise)  
+ 
+```
+git config --global user.nane "GitHubUserName"   
+git config --global user.email "YourEmail"
+```
 
 # Exercise 1
 
