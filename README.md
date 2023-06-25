@@ -23,6 +23,10 @@ git config --global user.email "YourEmail"
 
 # Exercise 1
 
+clone this repository! 
+
+# Exercise 2
+
 We have a separate directory for each group.
 
 Please write a markdown file with short **introduction** about yourself. For example, what food do you like.
@@ -31,7 +35,7 @@ Save it with your name or your pseudonym like `yourname.md`, and add it to the d
 
 Pull, Commit, Push and Pull to add your introduction - and also to get the introductions of the others.
 
-#  Exercise 2
+#  Exercise 3
 
 In each group directory there is a `README.md` file in which we want to collect **recommendations of movies and/or TV shows**.
 
@@ -41,7 +45,7 @@ Commit and push...
 
 As you are all doing this at (more or less) the same time, it is very likely that there will be merge conflicts and that chaos will ensue... breathe in and breathe out, and let's try to work these out together. Collaborating and social coding is not only about jointly contributing to a repository, but also on making agreements on the workflow. Who does what, in what order, and who takes responsibility.
 
-#  Exercise 3
+#  Exercise 4
 
 Create an [issue](https://github.com/Donders-Institute/git-workshop/issues) for one of your group members, for example ask them to add or modify a file. Assign a label to the issue and assign it to the group member that should resolve it.
 
