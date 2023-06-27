@@ -2,8 +2,7 @@
 
 This README contains the names or usernames or pseudonyms of the group 1 participants and their recommendations for cool movies or TV shows.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 1. The Shining
 2. rgnlg -- "Night on Earth" by Jim Jarmush; "La Grande Belezza" by Paolo Sorrentino, "The Secret of Kells" by Tomm Moore
 3.  
@@ -19,6 +18,7 @@ This README contains the names or usernames or pseudonyms of the group 1 partici
 5. True Detective
 
 =======
+
 Vadym's recommendations:
 
 1. The Shining
@@ -27,4 +27,4 @@ Vadym's recommendations:
 4. Dr. Strangelove
 5. Mavka. The Forest Song
  
->>>>>>> Stashed changes
+
