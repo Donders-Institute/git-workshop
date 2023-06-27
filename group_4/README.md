@@ -2,19 +2,13 @@
 
 This README contains the names or usernames or pseudonyms of the group 4 participants and their recommendations for cool movies or TV shows.
 
-Pietro
+Melanie & Pietro's recs
 1.  Sherlock
 2.  Community
-3.  Chuck
-4.  Dirk Gently
-5.  Silicon Valley
- 
-Group 4 consists of melanie
-
-1.  Sherlock
-2.  Bluey
 3.  Big Bang Theory
-4.  
-5.  
+4.  Bluey
+5.  Silicon Valley
+6.  Dirk Gently
+8.  Chuck
  
- I don't have time to watch TV anymore!!!
+We don't have time to watch TV anymore!!!
