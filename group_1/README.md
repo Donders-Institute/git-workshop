@@ -5,8 +5,7 @@ This README contains the names or usernames or pseudonyms of the group 1 partici
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 1. The Shining
-2. rgnlg
-"Night on Earth" by Jim Jarmush; "La Grande Belezza" by Paolo Sorrentina, "The Secret of Kells" by Tomm Moore
+2. rgnlg -- "Night on Earth" by Jim Jarmush; "La Grande Belezza" by Paolo Sorrentino, "The Secret of Kells" by Tomm Moore
 3.  
 4.  
 5.  
