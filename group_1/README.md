@@ -7,4 +7,12 @@ This README contains the names or usernames or pseudonyms of the group 1 partici
 3.  
 4.  
 5.  
- 
+
+**Rasmus recommendations**
+
+1. The Matrix
+2. Arrival
+3. The Wire
+4. Cosmos
+5. True Detective
+
