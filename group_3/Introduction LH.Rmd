@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction Laerke Hoegenhaven
 
 
-Short presentation about myself. 
+My name is Laerke and I like most food. At the moment I like watching Norsemen
