@@ -12,7 +12,6 @@ This README contains the names or usernames or pseudonyms of the group 1 partici
 4. Cosmos
 5. True Detective
 
-=======
 
 **Vadym's recommendations**
 
