@@ -2,7 +2,7 @@
 
 This README contains the names or usernames or pseudonyms of the group 1 participants and their recommendations for cool movies or TV shows.
 
-1.  
+1. The Shining
 2.  
 3.  
 4.  
