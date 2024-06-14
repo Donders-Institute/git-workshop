@@ -17,7 +17,7 @@ Warning: (1) make sure you log in from your editor to Github allowing easy push/
 Open a terminal (from VS code via the terminal menu, get [Git Bash](https://gitforwindows.org/) on Windows, any terminal otherwise)  
  
 ```
-git config --global user.nane "GitHubUserName"   
+git config --global user.name "GitHubUserName"   
 git config --global user.email "YourEmail"
 ```
 
