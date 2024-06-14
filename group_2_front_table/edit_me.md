@@ -3,7 +3,7 @@
 - Sherlock (BBC series)
 - Fargo (HBO series)
 - Everything, Everywhere, All at Once (Movie)
-- Demon Slayer (series)
+- Demon Slayer (series) (Seconded)
 - Succession (HBO series)
 - About Time (Movie)
 - Eurovision (Movie)
