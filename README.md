@@ -37,7 +37,7 @@ Pull, Commit, Push and Pull to add your introduction - and also to get the intro
 
 #  Exercise 3
 
-In each group directory there is a `README.md` file in which we want to collect **recommendations of movies and/or TV shows**.
+In each group directory there is a `edit_me.md` file in which we want to collect **recommendations of movies and/or TV shows**.
 
 Pull the latest changes to your local repository, edit the README and add your recommendation.
 
