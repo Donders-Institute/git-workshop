@@ -50,3 +50,5 @@ As you are all doing this at (more or less) the same time, it is very likely tha
 Create an [issue](https://github.com/Donders-Institute/git-workshop/issues) for one of your group members, for example ask them to add or modify a file. Assign a label to the issue and assign it to the group member that should resolve it.
 
 **Working together** while not sitting next to each other (and possibly in different time zones) requires good communication. You can discuss the issue online: every comment that is added to the issue will result in an email. Other repository (aka team) members can also read along.
+
+More on using Git and GitHub --> https://github.com/CPernet/Quicksheets/tree/main/git_github 
