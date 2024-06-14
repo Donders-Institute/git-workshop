@@ -1,0 +1,1 @@
+Drummond weighs 96.7kg and is 177cm tall
